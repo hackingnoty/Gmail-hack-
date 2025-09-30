@@ -6,7 +6,7 @@ This is a Python3 Script for hacking Gmail account using Dictionary Attack Metho
 
 # Installation
 
-    $ git clone https://github.com/naveenanon/Hack-gmail.git
+    $ https://github.com/hackingnoty/Gmail-hack-
 
 
 # How to Run the Script ? 
@@ -47,4 +47,5 @@ distribution’s package manager. or just read python installing guide.
 
 
    
+
 
